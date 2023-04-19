@@ -1,0 +1,129 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+
+}
+#myVideo {
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    width: 1536px;
+    height: 871px;
+    left: 0px;
+    top: 0px;
+}
+.imgop1{
+    position: absolute;
+    position: absolute;
+    width: 768px;
+    height: 576px;
+    left: 0px;
+    top: 867px;
+
+    background: url(carlos-esteves-1MWbwTaeJIA-unsplash.jpg);
+}
+.imgop2{
+    position: absolute;
+    width: 768px;
+    height: 582px;
+    left: 768px;
+    top: 1443px;
+
+    background: url(cornelia-ng-zZLhoEwGCeM-unsplash.jpg);
+}
+.firh{
+    position: absolute;
+    width: 407px;
+    height: 38px;
+    left: 939px;
+    top: 971px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34.6667px;
+    line-height: 44px;
+    letter-spacing: 0.115em;
+
+    color: #000000;
+
+}
+.firp{
+    position: absolute;
+    width: 426px;
+    height: 183px;
+    left: 939px;
+    top: 1055px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 164.4%;
+    /* or 39px */
+
+
+    color: #000000;
+}
+.secondh{
+    position: absolute;
+    width: 407px;
+    height: 44px;
+    left: 171px;
+    top: 1579px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34.6667px;
+    line-height: 44px;
+    letter-spacing: 0.115em;
+
+    color: #000000;
+}
+.secondp{
+    position: absolute;
+    width: 426px;
+    height: 183px;
+    left: 171px;
+    top: 1663px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 164.4%;
+    /* or 39px */
+
+
+    color: #000000;
+}
+.thirdh{
+    position: absolute;
+    width: 288px;
+    height: 44px;
+    left: 624px;
+    top: 2156px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34.6667px;
+    line-height: 44px;
+    text-align: center;
+    letter-spacing: 0.115em;
+
+    color: #000000;
+
+}
+.linee{
+    position: absolute;
+    width: 228.67px;
+    height: 0px;
+    left: 650px;
+    top: 2233px;
+
+    border: 2px solid #000000;
+}
