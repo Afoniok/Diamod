@@ -380,6 +380,17 @@ header .logo{
   row-gap: 45px;
   top: 2290px;
 }
+@keyframes loading {
+  0% {
+     transform: translateX(-101%);
+  }
+  80% {
+     transform: translateX(101%);
+  }
+  to {
+     transform: translateX(101%);
+  }
+}
 
 
 
